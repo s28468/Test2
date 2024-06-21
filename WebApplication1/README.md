@@ -1,5 +1,5 @@
 ﻿```
-git clone https://github.com/s28468/Test2/tree/master/WebApplication1
+git clone https://github.com/s28468/Test2
 ```
 ```
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer
